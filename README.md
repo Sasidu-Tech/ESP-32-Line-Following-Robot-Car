@@ -43,6 +43,7 @@ This project demonstrates:
 | 4 Wheel Robot Chassis | 1 |
 | 12V Power Supply/Battery | 1 |
 | Jumper Wires | As required |
+| Buck Convator | 1 |
 
 ---
 
